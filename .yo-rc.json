@@ -1,0 +1,22 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "18.20.8",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.24.0"
+    },
+    "version": "1.20.0",
+    "libraryName": "menu-top-navigation",
+    "libraryId": "6d2fdab2-453a-49f8-a7dd-34da0d47de4c",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "menu-top-navigation",
+    "solutionShortDescription": "menu-top-navigation description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "extension",
+    "extensionType": "ApplicationCustomizer"
+  }
+}

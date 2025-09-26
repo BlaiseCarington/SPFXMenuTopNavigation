@@ -1,0 +1,18 @@
+/* Dans votre fichier CSS chargé par l’extension (ou inséré en <style> avant le <nav>) */
+nav ul {
+  list-style: none;      /* on enlève les puces */
+  margin: 0;             /* on supprime marges/paddings par défaut */
+  padding: 0;
+  display: flex;         /* <ul> devient un flex-container */
+  flex-direction: row;   /* les <li> s’alignent horizontalement */
+  align-items: center;   /* pour centrer verticalement si besoin */
+}
+
+nav ul li {
+  margin-right: 1em;     /* espacement entre les items */
+  float: none;           /* on annule le float:left s’il existe */
+}
+
+nav ul li:last-child {
+  margin-right: 0;       /* plus d’espace après le dernier item */
+}

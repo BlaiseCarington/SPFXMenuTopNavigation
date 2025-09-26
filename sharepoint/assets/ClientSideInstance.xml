@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <ClientSideComponentInstance
+        Title="MenuByBibliotheque"
+        Location="ClientSideExtension.ApplicationCustomizer"
+        ComponentId="fe03c52d-0df6-4524-aabf-69e49bc12296"
+        Properties="{&quot;testMessage&quot;:&quot;Test message&quot;}">
+    </ClientSideComponentInstance>
+</Elements>
