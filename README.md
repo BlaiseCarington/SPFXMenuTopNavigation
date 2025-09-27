@@ -24,7 +24,7 @@ Short summary on functionality and used technologies.
 
 ## Prerequisites
 
-> Any special pre-requisites?
+> A partir de de Nodejs v.18
 
 ## Solution
 
